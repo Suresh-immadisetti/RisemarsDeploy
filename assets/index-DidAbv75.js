@@ -207,7 +207,7 @@ Error generating stack: `+s.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Qj=ve("X",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),Xj="/assets/rise-mark-logo-white-BV6ejkQd.png",Oe=[{id:"digital-marketing-strategy",name:"Digital Marketing Strategy",description:"Comprehensive digital marketing strategies tailored to your business goals and target audience.",icon:"strategy",image:"https://img.freepik.com/free-photo/group-businesspeople-planning-social-media-application_23-2147847539.jpg?ga=GA1.1.1955968501.1745332100&semt=ais_hybrid&w=740",content:`
+ */const Qj=ve("X",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),Xj="/RisemarsDeploy/assets/rise-mark-logo-white-BV6ejkQd.png",Oe=[{id:"digital-marketing-strategy",name:"Digital Marketing Strategy",description:"Comprehensive digital marketing strategies tailored to your business goals and target audience.",icon:"strategy",image:"https://img.freepik.com/free-photo/group-businesspeople-planning-social-media-application_23-2147847539.jpg?ga=GA1.1.1955968501.1745332100&semt=ais_hybrid&w=740",content:`
       Our digital marketing strategies are built on a foundation of data, industry expertise, and creative innovation. We don't believe in one-size-fits-all approaches – every client receives a bespoke strategy designed to meet their specific business objectives.
       
       What We Offer
