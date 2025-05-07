@@ -217,7 +217,7 @@ export const servicesList = [
     name: "E-commerce Brands",
     image: "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
     content: `
-      Rise Mars helps e-commerce brands thrive in the competitive online retail space through strategic digital marketing solutions designed specifically for selling products online.
+      RunsEra helps e-commerce brands thrive in the competitive online retail space through strategic digital marketing solutions designed specifically for selling products online.
       
       Our E-commerce Expertise
       
@@ -309,7 +309,7 @@ export const servicesList = [
   },
   {
     id: "local-businesses",
-    name: "Local Hyderabad Businesses",
+    name: "Local Businesses",
     image: "https://images.pexels.com/photos/2041596/pexels-photo-2041596.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
     content: `
       As a Hyderabad-based agency, we have special expertise in helping local businesses thrive through digital marketing strategies tailored to the local market.

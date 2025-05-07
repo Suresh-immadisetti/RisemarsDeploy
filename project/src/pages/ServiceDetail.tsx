@@ -33,7 +33,7 @@ const ServiceDetail: React.FC = () => {
 
     if (currentService) {
       setService(currentService);
-      document.title = `${currentService.name} | Rise Mars Digital Solutions`;
+      document.title = `${currentService.name} | RunsEra Digital Solutions`;
     } else {
       navigate('/services');
     }

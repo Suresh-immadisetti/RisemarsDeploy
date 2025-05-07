@@ -104,11 +104,11 @@ const About = () => {
             </motion.div>
             <motion.div className="w-full md:w-1/2" variants={fadeInUp}>
               <span className="inline-block px-3 py-1 bg-skyblue-100 text-skyblue-800 rounded-full text-sm mb-4">Our Story</span>
-              <h2 className="text-4xl font-bold text-primary-800 mb-6">About Rise Mars Digital Solutions</h2>
+              <h2 className="text-4xl font-bold text-primary-800 mb-6">About RunsEra Digital Solutions</h2>
               <div className="text-gray-700 space-y-4">
-                <p>At Rise Mars, we believe bold ideas spark bold results. We are a performance-driven digital marketing agency based in Hyderabad, India, helping businesses of all sizes launch, grow, and lead in the digital space.</p>
-                <p>Founded in 2025, our mission is to transform brands through smart strategies, creative storytelling, and data-driven execution. Our name reflects our mindset—"Rise" for growth, ambition, and impact, and "Mars" for innovation, exploration, and future-forward thinking.</p>
-                <p>From startups to enterprises, we craft digital journeys that are effective, engaging, and future-ready.</p>
+                <p><b>Runsera Digital Solutions Pvt. Ltd. is a modern digital-first agency born from the vision of empowering brands to thrive in the ever-evolving digital world. Founded in Hyderabad and serving clients across India, we specialize in result-driven services such as SEO, Google & Meta Ads, Website Design & Development, Social Media Management, Content Creation, Email Marketing, Influencer Outreach, and Brand Identity.</b></p>
+                <p><b>The name Runsera represents “Runs into a New Era” — and that's exactly what we help businesses do. With a curated team of expert freelancers, designers, developers, and marketers, Runsera offers agency-quality work with the flexibility and personal touch of a startup.</b></p>
+                <p><b>Whether you're launching a new brand or looking to scale an existing business, we build tailored digital strategies that help you stand out, grow faster, and connect deeply with your audience.</b></p>
               </div>
             </motion.div>
           </motion.div>
@@ -139,7 +139,7 @@ const About = () => {
             <div>
               <h3 className="text-5xl font-extrabold text-primary-800 mb-6">Our Mission</h3>
               <p className="text-xl text-gray-700">
-                To become a globally recognized digital powerhouse that transforms brands through innovation, creativity, and bold marketing strategies inspired by the spirit of Mars.
+                <b>To empower businesses of all sizes with innovative, data-driven digital solutions that build strong brands, accelerate growth, and deliver measurable results across digital platforms</b>
               </p>
             </div>
             <div>
@@ -154,7 +154,7 @@ const About = () => {
             <div className="order-1 md:order-2">
               <h3 className="text-5xl font-extrabold text-skyblue-700 mb-6">Our Vision</h3>
               <p className="text-xl text-gray-700">
-                To help businesses launch and grow in the digital universe through data-driven campaigns, futuristic storytelling, and performance-driven solutions that spark real results.
+                <b>To help businesses launch and grow in the digital universe through data-driven campaigns, futuristic storytelling, and performance-driven solutions that spark real results.</b>
               </p>
             </div>
           </motion.div>
@@ -165,8 +165,8 @@ const About = () => {
       <section className="py-20 bg-white" ref={teamRef}>
         <div className="container mx-auto px-4">
           <motion.div className="text-center max-w-2xl mx-auto mb-16" initial="hidden" animate={teamControls} variants={fadeInUp}>
-            <span className="inline-block px-3 py-1 bg-skyblue-100 text-skyblue-800 rounded-full text-sm mb-4">Why Choose Rise Mars</span>
-            <h2 className="text-4xl font-bold text-primary-800 mb-4">The Rise Mars Difference</h2>
+            <span className="inline-block px-3 py-1 bg-skyblue-100 text-skyblue-800 rounded-full text-sm mb-4">Why Choose RunsEra</span>
+            <h2 className="text-4xl font-bold text-primary-800 mb-4">The RunsEra Difference</h2>
             <p className="text-lg text-gray-600">What sets us apart from other digital marketing agencies.</p>
           </motion.div>
           <motion.div className="grid grid-cols-1 md:grid-cols-3 gap-8" initial="hidden" animate={teamControls} variants={staggerContainer}>
@@ -181,7 +181,7 @@ const About = () => {
       <section className="py-20 bg-gradient-to-r from-skyblue-600 to-primary-700 text-white text-center">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold mb-6">Ready to Transform Your Digital Presence?</h2>
-          <p className="text-xl max-w-2xl mx-auto mb-10">Partner with Rise Mars to create impactful digital experiences that drive real business results.</p>
+          <p className="text-xl max-w-2xl mx-auto mb-10">Partner with RunsEra to create impactful digital experiences that drive real business results.</p>
           <Link to="/contact" className="bg-white text-primary-800 font-medium px-8 py-3 rounded-lg hover:bg-gray-100 transition-transform transform hover:scale-105">Get in Touch</Link>
         </div>
       </section>

@@ -31,7 +31,7 @@ const IndustryDetail: React.FC = () => {
 
     if (currentIndustry) {
       setIndustry(currentIndustry);
-      document.title = `${currentIndustry.name} | Rise Mars Digital Solutions`;
+      document.title = `${currentIndustry.name} | RunsEra Digital Solutions`;
     } else {
       navigate('/industries');
     }

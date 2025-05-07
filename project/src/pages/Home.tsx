@@ -344,7 +344,7 @@ const Home = () => {
               variants={fadeInUp}
             >
               <span className="inline-block px-3 py-1 bg-primary-100 text-primary-800 rounded-full text-sm font-medium mb-4">Our Purpose</span>
-              <h2 className="text-3xl md:text-4xl font-heading font-bold mb-8 text-primary-800">Why Rise Mars?</h2>
+              <h2 className="text-3xl md:text-4xl font-heading font-bold mb-8 text-primary-800">Why RunsEra?</h2>
               
               {/* Mission */}
               <div className="bg-gray-50 rounded-lg p-6 mb-6 border-l-4 border-skyblue-500 shadow-sm">
@@ -374,7 +374,7 @@ const Home = () => {
               <div className="bg-white rounded-lg p-8">
                 <div className="flex items-center mb-6">
                   <RocketIcon className="h-10 w-10 text-skyblue-500 mr-4" />
-                  <h3 className="text-2xl font-heading font-bold text-primary-800">Rise Mars Approach</h3>
+                  <h3 className="text-2xl font-heading font-bold text-primary-800">RunsEra Approach</h3>
                 </div>
                 
                 <ul className="space-y-4">
